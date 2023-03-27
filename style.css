@@ -1,0 +1,229 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background: linear-gradient(90deg, #d70fe9, #70109f, #1060bc);
+}
+
+.shapka {
+    width: auto;
+    height: 250px;
+    background:linear-gradient(17deg, #cb0890, #eee209, #0077ff);
+    /* border: 4px solid rgb(55, 41, 158); */
+    border-radius: 1% 28% 3% 28%;
+    /* background-image: url(https://images.wallpaperscraft.ru/image/single/siluet_krug_svechenie_141558_1280x720.jpg); */
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 100px;
+    width: 800px;
+    margin-left: 240px;
+    margin-top: 60px;
+
+}
+
+ul li {
+    margin: 30px;
+    list-style: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(8, 36, 4);
+}
+
+ul li:hover {
+    color: rgb(75, 172, 251);
+    cursor: pointer;
+    transition: 45ms;
+    background-color: width  wheat;
+    text-align: center;
+
+}
+
+.body {
+    width: auto;
+    height: auto;
+    /* background-color: brown; */
+    text-align: center;
+    border-radius: 2px 2% 2% 2% 2%;
+    justify-content:space-around;
+    
+}
+
+
+
+.bodyKatalog {
+    width: auto;
+    height: auto+250px;
+    /* background-color: rgb(206, 13, 97); */
+    text-align: center;
+    border-radius: 2px 2% 2% 2% 2%;
+    justify-content:space-around;
+    display: flex;
+    justify-content: space-between;
+    color:rgb(35, 11, 128);
+}
+
+
+.part1 {
+    width: 250px;
+    height: 350px;
+    border: 3px solid #1294bc;
+    background-image: url(./93795358_685988952188259_8867567823895446105_n.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 5% 5% 5% 5%;
+    
+    
+
+}
+
+.part1:hover {
+    width: 260px;
+    height: 360px;
+    transition: 150ms;
+    
+}
+
+.part2 {
+    width: 250px;
+    height: 350px;
+    border: 3px solid #1294bc;
+    background-image: url(./94103489_240203407095916_2944034770480103551_n.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 5% 5% 5% 5%;
+
+
+}
+
+.part2:hover {
+    width: 260px;
+    height: 360px;
+    transition: 150ms;
+    
+}
+
+.part3 {
+    width: 250px;
+    height: 350px;
+    border: 3px solid #1294bc;
+    background-image: url(./94387089_2974723185917270_4022337492907698069_n.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 5% 5% 5% 5%;
+
+
+}
+
+.part3:hover {
+    width: 260px;
+    height: 360px;
+    transition: 150ms;
+    
+}
+
+.part4 {
+    width: 250px;
+    height: 350px;
+    border: 3px solid #1294bc;
+    background-image: url(./95266145_1593672037447634_9127667238052969245_n.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 5% 5% 5% 5%;
+
+
+}
+
+.part4:hover {
+    width: 260px;
+    height: 360px;
+    transition: 150ms;
+    
+}
+
+.part5 {
+    width: 250px;
+    height: 350px;
+    border: 3px solid #1294bc;
+    background-image: url(./95665486_707228830092584_9041680236946806620_n.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 5% 5% 5% 5%;
+
+
+}
+
+.part5:hover {
+    width: 260px;
+    height: 360px;
+    transition: 150ms;
+    
+}
+
+
+.part6 {
+    width: 250px;
+    height: 350px;
+    border: 3px solid #1294bc;
+    background-image: url(./95665486_707228830092584_9041680236946806620_n.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 5% 5% 5% 5%;
+
+
+}
+
+.part6:hover {
+    width: 260px;
+    height: 360px;
+    transition: 150ms;
+    
+}
+
+.bodyVTope {
+    width: auto;
+    height: auto;
+    background-color: rgb(42, 126, 165);
+    text-align: center;
+    border-radius: 2px 2% 2% 2% 2%;
+    justify-content:space-around;
+
+}
+
+
+
+.bodyInteres  {
+    width: auto;
+    height: auto;
+    background-color: rgb(70, 212, 5);
+    text-align: center;
+    border-radius: 2px 2% 2% 2% 2%;
+    justify-content:space-around;
+}
+
+
+.bodKontakt  {
+    width: auto;
+    height: auto;
+    background-color: rgb(174, 5, 120);
+    border: auto;
+    text-align: center;
+    border-radius: 2px 2% 2% 2% 2%;
+    justify-content:space-around;
+}
+
+
+.footer {
+    width: auto;
+    height: 300px;
+    background-color: rgb(165, 165, 165);
+    border: 200px;
+    border-color: blue;
+    border-radius: 3% 3% 23% 23%;
+    text-align: center;
+    /* background-image: url(https://images.wallpaperscraft.ru/image/single/derevia_les_reka_317076_1280x720.jpg);
+    background-size: cover;
+    background-position: center;
+     */
+
+}
